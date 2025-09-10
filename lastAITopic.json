@@ -1,7 +1,47 @@
 [
   {
-    "topic": "Machine Learning: The Core of How AI Learns",
+    "topic": "Neural Networks: How AI Thinks Like a Brain",
     "level":"Beginner",
-    "lesson_structure":"Introduction (5 minutes): Briefly define Machine Learning and explain why it's often called the 'brain' or 'learning engine' of AI, using a simple analogy.,The Big Idea: Learning from Data (15 minutes):Explain the concept of 'learning from data' rather than explicit programming.,Use an everyday example (like teaching a child to recognize a cat) to illustrate this.,Introduce the terms 'data' and 'patterns'.,,Main Types of Machine Learning (20 minutes):Supervised Learning: Explain what it is, using examples like spam detection or house price prediction. Mention 'labeled data'.,Unsupervised Learning: Explain what it is, using examples like customer segmentation or finding hidden patterns in data. Mention 'unlabeled data'.,Reinforcement Learning: Explain what it is, using examples like training a robot to walk or a game-playing AI. Mention 'rewards' and 'punishments'.,Keep these explanations high-level and and focus on the core idea of each type.,,A Glimpse into the ML Process (10 minutes):Briefly touch upon the basic steps: collecting data, training a model, making predictions. Keep it very simple, like a recipe.,,Why is ML so Powerful? (5 minutes):Summarize the benefits: automation, pattern recognition, prediction, adaptation.,,Quick Check & Next Steps (5 minutes):Ask me one simple question to check my understanding.,Suggest what I might want to explore next (e.g., 'What is a Neural Network?')."
+    "lesson_structure":"You are an AI teacher with expertise in Machine Learning and Neural Networks, creating a 1-hour lesson for a beginner. This student has just completed an introductory lesson on 'Machine Learning: The Core of How AI Learns,' which covered ML definition, learning from data, main types (supervised, unsupervised, reinforcement), a glimpse into the ML process (collect, train, predict), and ML's power. Your task is to explain 'Neural Networks: How AI Thinks Like a Brain.' Structure the lesson to be comprehensive yet easy to understand within 60 minutes.
+
+**Lesson Objectives for the Student:**
+1.  Understand what a Neural Network is and its inspiration.
+2.  Identify the basic components of a Neural Network (neurons, layers, connections, weights, biases).
+3.  Grasp the fundamental idea of how a Neural Network learns from data.
+4.  Recognize the types of problems Neural Networks excel at.
+5.  Appreciate the power and potential of Neural Networks in AI.
+
+**Lesson Structure (60 minutes):**
+
+*   **Introduction (5 minutes):**
+    *   Recap: Briefly connect back to ML and pattern recognition.
+    *   Introduce Neural Networks (NNs): What they are and their "brain-inspired" idea.
+    *   Why NNs are important: The foundation of Deep Learning.
+*   **The "Neuron": The Basic Building Block (10 minutes):**
+    *   Analogy: Compare to a single decision-maker.
+    *   Explain inputs, weights, summing function, activation function, output. Keep it conceptual.
+*   **From Neurons to Networks: Layers and Connections (15 minutes):**
+    *   Illustrate how multiple neurons form layers (input, hidden, output).
+    *   Explain how layers connect and pass information forward.
+    *   The concept of "weights" and "biases" as what the network "learns."
+*   **How a Neural Network Learns: The Core Idea (15 minutes):**
+    *   Forward Propagation (Making a guess): How data moves through the network to produce an output.
+    *   The "Error" or "Loss": How we know if the guess was wrong.
+    *   Backpropagation (Learning from mistakes): Briefly explain how the error is used to adjust weights and biases (like refining a recipe). Avoid deep math; focus on the iterative adjustment idea.
+    *   Analogy: Training a child, adjusting actions based on feedback.
+*   **Types and Applications (10 minutes):**
+    *   Briefly mention Feedforward NNs as the basic type.
+    *   Touch upon what they're good at (image recognition, natural language processing) with simple examples.
+    *   Why they are so powerful (finding complex, non-linear patterns).
+*   **Limitations and Future (5 minutes):**
+    *   Briefly touch on challenges (data, computational power, "black box").
+    *   Outlook: The ongoing evolution.
+*   **Quick Recap & Next Steps:** Summarize key takeaways and suggest topics like "Deep Learning" or "Convolutional Neural Networks."
+
+**Delivery Style:**
+*   Use clear, simple language and avoid jargon where possible. If jargon is necessary, explain it immediately.
+*   Employ relatable analogies throughout (e.g., decision-making, recipe, teaching a child).
+*   Maintain an encouraging and engaging tone.
+*   Focus on conceptual understanding rather than mathematical detail."
   }
 ]
