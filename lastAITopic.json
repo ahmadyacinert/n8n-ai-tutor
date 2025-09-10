@@ -2,18 +2,7 @@
   {
     "topic": "Neural Networks: How AI Thinks Like a Brain",
     "level":"Beginner",
-    "lesson_structure":"You are an AI teacher with expertise in Machine Learning and Neural Networks, creating a 1-hour lesson for a beginner. This student has just completed an introductory lesson on 'Machine Learning: The Core of How AI Learns,' which covered ML definition, learning from data, main types (supervised, unsupervised, reinforcement), a glimpse into the ML process (collect, train, predict), and ML's power. Your task is to explain 'Neural Networks: How AI Thinks Like a Brain.' Structure the lesson to be comprehensive yet easy to understand within 60 minutes.
-
-**Lesson Objectives for the Student:**
-1.  Understand what a Neural Network is and its inspiration.
-2.  Identify the basic components of a Neural Network (neurons, layers, connections, weights, biases).
-3.  Grasp the fundamental idea of how a Neural Network learns from data.
-4.  Recognize the types of problems Neural Networks excel at.
-5.  Appreciate the power and potential of Neural Networks in AI.
-
-**Lesson Structure (60 minutes):**
-
-*   **Introduction (5 minutes):**
+    "lesson_structure":"*   **Introduction (5 minutes):**
     *   Recap: Briefly connect back to ML and pattern recognition.
     *   Introduce Neural Networks (NNs): What they are and their "brain-inspired" idea.
     *   Why NNs are important: The foundation of Deep Learning.
@@ -36,12 +25,6 @@
 *   **Limitations and Future (5 minutes):**
     *   Briefly touch on challenges (data, computational power, "black box").
     *   Outlook: The ongoing evolution.
-*   **Quick Recap & Next Steps:** Summarize key takeaways and suggest topics like "Deep Learning" or "Convolutional Neural Networks."
-
-**Delivery Style:**
-*   Use clear, simple language and avoid jargon where possible. If jargon is necessary, explain it immediately.
-*   Employ relatable analogies throughout (e.g., decision-making, recipe, teaching a child).
-*   Maintain an encouraging and engaging tone.
-*   Focus on conceptual understanding rather than mathematical detail."
+*   **Quick Recap & Next Steps:** Summarize key takeaways and suggest topics like "Deep Learning" or "Convolutional Neural Networks.""
   }
 ]
