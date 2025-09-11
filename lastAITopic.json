@@ -1,7 +1,7 @@
 [
   {
-    "topic": "Deep Learning: The Power of Many Layers",
+    "topic": "Deep Learning: What Makes Networks 'Deep' and Powerful",
     "level":"Beginner",
-    "lesson_structure":"1. Quick Recap of Neural Networks (5 min)2. What is 'Deep' Learning? (10 min)3. Why Go Deep? Advantages of Deep Learning (15 min)4. Key Deep Learning Architectures (20 min): Deep Feedforward Networks, Convolutional Neural Networks (conceptual), Recurrent Neural Networks (conceptual)5. Real-World Applications & Impact (5 min)6. Brief Challenges & Future Outlook (5 min)7. Summary & Next Steps"
+    "lesson_structure":"1. Introduction & Recap (5 minutes)2. What Does 'Deep' Mean? (10 minutes)3. Why Go Deep? The Power of Abstraction (20 minutes)4. Key Ingredients for Deep Learning (15 minutes)5. Advantages & Challenges (5 minutes)6. Real-world Impact (5 minutes)"
   }
 ]
