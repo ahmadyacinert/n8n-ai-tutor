@@ -1,7 +1,7 @@
 [
   {
-    "topic": "Deep Learning: What Makes Networks 'Deep' and Powerful",
+    "topic": "Artificial Neurons and Neural Networks: The Building Blocks of Deep Learning",
     "level":"Beginner",
-    "lesson_structure":"1. Introduction & Recap (5 minutes)2. What Does 'Deep' Mean? (10 minutes)3. Why Go Deep? The Power of Abstraction (20 minutes)4. Key Ingredients for Deep Learning (15 minutes)5. Advantages & Challenges (5 minutes)6. Real-world Impact (5 minutes)"
+    "lesson_structure":"1. Recap & Connection (5 mins)2. The Biological Inspiration (10 mins)3. An Artificial Neuron: The Perceptron (15 mins)4. From One Neuron to a Network (20 mins)5. Why Neural Networks are Powerful (5 mins)6. Q&A / Next Steps (5 mins)"
   }
 ]
